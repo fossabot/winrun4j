@@ -1,4 +1,6 @@
 # WinRun4J
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcobexer%2Fwinrun4j.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcobexer%2Fwinrun4j?ref=badge_shield)
+
 Configurable Java Launcher for Windows
 
 ## About
@@ -162,3 +164,7 @@ Note:
 * The embedded INI entries are overwridden by an external INI file (if present).
 * Any JARs added to the executable will automatically be added to the classpath (before all classpath entries specified in the INI file and in the order in which they are embedded). They don't need to be specified in the INI file.
 * If an embedded splash image is present it will automatically appear (it doesn't need to be specified in the INI file).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcobexer%2Fwinrun4j.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcobexer%2Fwinrun4j?ref=badge_large)
